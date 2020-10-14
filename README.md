@@ -3,6 +3,7 @@
 #### Computer Science Student at UFFS Chapecó
 
 - 🌱 I’m currently learning VueJS
+- Starting my journey in research (computer vision, human-computer interaction)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arufonsekun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
