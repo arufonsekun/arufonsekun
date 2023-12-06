@@ -6,7 +6,7 @@
 - I like linux, I'm reading [LPIC study guide](https://dokumen.pub/lpic-1-linux-professional-institute-certification-exam-101-500-and-exam-102-500-9781119582090-1119582091-9781119582120-9781119582083.html) to someday take the certification exame;
 - I like well named code, variables with good names make me happy;
 - I like functions, objects not that much;
-- I have to study unit tests, it's pretty important but I know nothing about it;
+- I need to study unit tests, it's pretty important and I know nothing about it;
 - Music is good, it helps me to calm my mind, the song I'm listening right now is:
 <p align=center>
 <img src=https://spotify-github-profile.vercel.app/api/view?uid=21fon2iumnknv6vsvqscs56wy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false>
