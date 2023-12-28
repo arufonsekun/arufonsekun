@@ -12,6 +12,7 @@
 <img src=https://spotify-github-profile.vercel.app/api/view?uid=21fon2iumnknv6vsvqscs56wy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false>
 </p>
 
+- I often get lost reading the most random wikipedia articles;
 - I like The Office, a lot;
 
 <p align=center style="border-radius:10px;">
