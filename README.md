@@ -3,7 +3,7 @@
 - **Arufonsekun** is my nickname, it's inspired in the anime Fullmetal Alchemist;
 - I play League of Legends, Morgana is my main, my [op.gg](https://www.op.gg/summoners/br/arufonsekun-BR1) by the way;
 - I like reading, It takes my mind off reality. This days I'm reading **The Trial** from Franz Kafka;
-- I like linux, I'm reading [LPIC study guide](https://dokumen.pub/lpic-1-linux-professional-institute-certification-exam-101-500-and-exam-102-500-9781119582090-1119582091-9781119582120-9781119582083.html) to someday take the certification exame;
+- I like linux, I'm reading [LPIC study guide](https://dokumen.pub/lpic-1-linux-professional-institute-certification-exam-101-500-and-exam-102-500-9781119582090-1119582091-9781119582120-9781119582083.html) to someday take the certification exam;
 - I like well named code, variables with good names make me happy;
 - I like functions, objects not that much;
 - I need to study unit tests, it's pretty important and I know nothing about it;
