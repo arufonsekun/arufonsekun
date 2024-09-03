@@ -7,7 +7,6 @@
 - I like functions, objects not that much;
 - I need to study unit tests, it's pretty important and I know nothing about it;
 - Music is nice, it helps me to calm my mind, the song I'm listening right now is:
-
 - I often get lost reading the most random wikipedia articles;
 - I like The Office, a lot;
 
