@@ -2,7 +2,7 @@
 
 - **Arufonsekun** is my nickname, it's inspired in the anime Fullmetal Alchemist;
 - I play League of Legends, Morgana is my main, my [op.gg](https://www.op.gg/summoners/br/arufonsekun-BR1) by the way;
-- I like reading, It takes my mind off things. This days I'm reading **Alice in the wonderland**;
+- I like reading, It takes my mind off things. This days I'm reading **Les bienveillantes** by Jonathan Littell;
 - I like well named code, variables with good names make me happy;
 - I like functions, objects not that much;
 - I need to study unit tests, it's pretty important and I know nothing about it;
